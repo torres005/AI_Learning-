@@ -1,19 +1,16 @@
 import "dotenv/config";
 
-function required(name: string): string {
+function getEnv(name: string, fallback: string = ""): string {
   const value = process.env[name];
-  if (!value && process.env.NODE_ENV === "production") {
-    throw new Error(`Missing required environment variable: ${name}`);
-  }
-  return value ?? "";
+  return value && value.trim() !== "" ? value : fallback;
 }
 
 export const env = {
-  appId: required("APP_ID"),
-  appSecret: required("APP_SECRET"),
+  appId: getEnv("APP_ID", "smart-learning-adventure"),
+  appSecret: getEnv("APP_SECRET", "smart-learning-adventure-secret-key-2026"),
   isProduction: process.env.NODE_ENV === "production",
-  databaseUrl: required("DATABASE_URL"),
-  kimiAuthUrl: required("KIMI_AUTH_URL"),
-  kimiOpenUrl: required("KIMI_OPEN_URL"),
+  databaseUrl: getEnv("DATABASE_URL", ""),
+  kimiAuthUrl: getEnv("KIMI_AUTH_URL", "https://api.kimi.com"),
+  kimiOpenUrl: getEnv("KIMI_OPEN_URL", "https://open.kimi.com"),
   ownerUnionId: process.env.OWNER_UNION_ID ?? "",
 };
