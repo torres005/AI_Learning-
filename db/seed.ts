@@ -1,5 +1,6 @@
 import { getDb } from "../api/queries/connection";
 import * as schema from "./schema";
+import bcrypt from "bcryptjs";
 
 async function seed() {
   const db = getDb();
@@ -473,6 +474,112 @@ async function seed() {
   }
   
   console.log("Lessons with videos and randomized quizzes successfully seeded.");
+
+  console.log("Seeding demo accounts for quick testing...");
+  const passwordHash = await bcrypt.hash("password123", 10);
+
+  await db.insert(schema.users).values([
+    {
+      id: 1,
+      username: "alex_explorer",
+      passwordHash,
+      fullName: "Alex Explorer",
+      email: "alex@example.com",
+      role: "child",
+      avatar: "/child-avatar-1.png",
+    },
+    {
+      id: 2,
+      username: "sarah_parent",
+      passwordHash,
+      fullName: "Sarah Jenkins",
+      email: "sarah@example.com",
+      role: "parent",
+      avatar: "/parent-avatar.png",
+    },
+    {
+      id: 3,
+      username: "mr_davis",
+      passwordHash,
+      fullName: "Marcus Davis",
+      email: "davis@school.edu",
+      role: "teacher",
+      avatar: "/teacher-avatar.png",
+    },
+  ]);
+
+  await db.insert(schema.childrenProfiles).values([
+    {
+      id: 1,
+      userId: 1,
+      ageGroup: "8-12",
+      totalXp: 420,
+      currentStreak: 5,
+      longestStreak: 7,
+      level: 1,
+      selectedAvatar: "/child-avatar-1.png",
+    },
+  ]);
+
+  await db.insert(schema.parentProfiles).values([
+    {
+      id: 1,
+      userId: 2,
+    },
+  ]);
+
+  await db.insert(schema.teacherProfiles).values([
+    {
+      id: 1,
+      userId: 3,
+      subject: "Computer Science & AI",
+      grade: "Grade 4-8",
+    },
+  ]);
+
+  await db.insert(schema.parentChildLinks).values([
+    {
+      id: 1,
+      parentId: 2,
+      childId: 1,
+      status: "accepted",
+    },
+  ]);
+
+  // Seed sample course progress so student dashboard shows active quests
+  await db.insert(schema.courseProgress).values([
+    {
+      id: 1,
+      childId: 1,
+      courseId: 13,
+      completedLessons: 2,
+      totalLessons: 3,
+      status: "in_progress",
+    },
+    {
+      id: 2,
+      childId: 1,
+      courseId: 14,
+      completedLessons: 1,
+      totalLessons: 3,
+      status: "in_progress",
+    },
+  ]);
+
+  await db.insert(schema.lessonProgress).values([
+    { id: 1, childId: 1, lessonId: 37, status: "completed" },
+    { id: 2, childId: 1, lessonId: 38, status: "completed" },
+    { id: 3, childId: 1, lessonId: 39, status: "unlocked" },
+    { id: 4, childId: 1, lessonId: 40, status: "completed" },
+    { id: 5, childId: 1, lessonId: 41, status: "unlocked" },
+  ]);
+
+  await db.insert(schema.childBadges).values([
+    { id: 1, childId: 1, badgeId: 1 },
+    { id: 2, childId: 1, badgeId: 4 },
+  ]);
+
+  console.log("Demo accounts and sample student quests seeded successfully.");
   console.log("Done seeding successfully.");
   process.exit(0);
 }

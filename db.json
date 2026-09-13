@@ -10,8 +10,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.501Z",
-      "updatedAt": "2026-06-24T12:10:22.501Z"
+      "createdAt": "2026-09-13T10:22:18.149Z",
+      "updatedAt": "2026-09-13T10:22:18.149Z"
     },
     {
       "id": 2,
@@ -23,8 +23,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.502Z",
-      "updatedAt": "2026-06-24T12:10:22.502Z"
+      "createdAt": "2026-09-13T10:22:18.149Z",
+      "updatedAt": "2026-09-13T10:22:18.149Z"
     },
     {
       "id": 3,
@@ -32,12 +32,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"Can AI help us find our favorite cartoons or songs?\\\",\\\"options\\\":[\\\"Yes, it recommends things we might like.\\\",\\\"No, it only plays math games.\\\",\\\"Only on Saturdays.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Can computers learn from patterns and examples?\\\",\\\"options\\\":[\\\"Yes, this is how AI learns!\\\",\\\"No, computers only do math.\\\",\\\"Only if we give them food.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What does an AI need to learn new things?\\\",\\\"options\\\":[\\\"Lots of examples and data.\\\",\\\"A good night's sleep.\\\",\\\"A sandwich.\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"Can an AI helper recognize your face in a photo?\\\",\\\"options\\\":[\\\"Yes, using a camera and smart vision.\\\",\\\"No, photos are too small.\\\",\\\"Only if you type your name.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Do robots think exactly like humans?\\\",\\\"options\\\":[\\\"No, they follow instructions and patterns.\\\",\\\"Yes, they have human brains.\\\",\\\"They don't think at all.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Does AI feel happy when you do a good job?\\\",\\\"options\\\":[\\\"No, AI is a machine and does not have real feelings.\\\",\\\"Yes, it smiles.\\\",\\\"It gets very excited.\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.502Z",
-      "updatedAt": "2026-06-24T12:10:22.502Z"
+      "createdAt": "2026-09-13T10:22:18.149Z",
+      "updatedAt": "2026-09-13T10:22:18.149Z"
     },
     {
       "id": 4,
@@ -49,8 +49,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.507Z",
-      "updatedAt": "2026-06-24T12:10:22.507Z"
+      "createdAt": "2026-09-13T10:22:18.152Z",
+      "updatedAt": "2026-09-13T10:22:18.152Z"
     },
     {
       "id": 5,
@@ -62,8 +62,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.507Z",
-      "updatedAt": "2026-06-24T12:10:22.507Z"
+      "createdAt": "2026-09-13T10:22:18.152Z",
+      "updatedAt": "2026-09-13T10:22:18.152Z"
     },
     {
       "id": 6,
@@ -71,12 +71,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"Which of these is a friendly AI helper in our home?\\\",\\\"options\\\":[\\\"A voice assistant speaker\\\",\\\"A wooden chair\\\",\\\"A glass of water\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Is a robotic puppy alive like a real dog?\\\",\\\"options\\\":[\\\"No, it's a smart toy made of metal and chips.\\\",\\\"Yes, it eats real food.\\\",\\\"Yes, it has a heartbeat.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Can computers learn from patterns and examples?\\\",\\\"options\\\":[\\\"Yes, this is how AI learns!\\\",\\\"No, computers only do math.\\\",\\\"Only if we give them food.\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"Can an AI helper recognize your face in a photo?\\\",\\\"options\\\":[\\\"Yes, using a camera and smart vision.\\\",\\\"No, photos are too small.\\\",\\\"Only if you type your name.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Which of these is a friendly AI helper in our home?\\\",\\\"options\\\":[\\\"A voice assistant speaker\\\",\\\"A wooden chair\\\",\\\"A glass of water\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Does AI feel happy when you do a good job?\\\",\\\"options\\\":[\\\"No, AI is a machine and does not have real feelings.\\\",\\\"Yes, it smiles.\\\",\\\"It gets very excited.\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.507Z",
-      "updatedAt": "2026-06-24T12:10:22.507Z"
+      "createdAt": "2026-09-13T10:22:18.152Z",
+      "updatedAt": "2026-09-13T10:22:18.152Z"
     },
     {
       "id": 7,
@@ -88,8 +88,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.514Z",
-      "updatedAt": "2026-06-24T12:10:22.514Z"
+      "createdAt": "2026-09-13T10:22:18.155Z",
+      "updatedAt": "2026-09-13T10:22:18.155Z"
     },
     {
       "id": 8,
@@ -101,8 +101,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.514Z",
-      "updatedAt": "2026-06-24T12:10:22.514Z"
+      "createdAt": "2026-09-13T10:22:18.155Z",
+      "updatedAt": "2026-09-13T10:22:18.155Z"
     },
     {
       "id": 9,
@@ -110,12 +110,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"Can an AI helper recognize your face in a photo?\\\",\\\"options\\\":[\\\"Yes, using a camera and smart vision.\\\",\\\"No, photos are too small.\\\",\\\"Only if you type your name.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Can computers learn from patterns and examples?\\\",\\\"options\\\":[\\\"Yes, this is how AI learns!\\\",\\\"No, computers only do math.\\\",\\\"Only if we give them food.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What does AI stand for?\\\",\\\"options\\\":[\\\"Artificial Intelligence\\\",\\\"Apple Ice-cream\\\",\\\"Angry Instruments\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"How does a self-driving car know where to stop?\\\",\\\"options\\\":[\\\"Using cameras and smart sensors.\\\",\\\"It guesses randomly.\\\",\\\"By honking the horn.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What does AI stand for?\\\",\\\"options\\\":[\\\"Artificial Intelligence\\\",\\\"Apple Ice-cream\\\",\\\"Angry Instruments\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Which of these is a friendly AI helper in our home?\\\",\\\"options\\\":[\\\"A voice assistant speaker\\\",\\\"A wooden chair\\\",\\\"A glass of water\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.514Z",
-      "updatedAt": "2026-06-24T12:10:22.514Z"
+      "createdAt": "2026-09-13T10:22:18.155Z",
+      "updatedAt": "2026-09-13T10:22:18.155Z"
     },
     {
       "id": 10,
@@ -127,8 +127,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.518Z",
-      "updatedAt": "2026-06-24T12:10:22.518Z"
+      "createdAt": "2026-09-13T10:22:18.158Z",
+      "updatedAt": "2026-09-13T10:22:18.158Z"
     },
     {
       "id": 11,
@@ -140,8 +140,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.518Z",
-      "updatedAt": "2026-06-24T12:10:22.518Z"
+      "createdAt": "2026-09-13T10:22:18.158Z",
+      "updatedAt": "2026-09-13T10:22:18.158Z"
     },
     {
       "id": 12,
@@ -149,12 +149,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"Which of these is a friendly AI helper in our home?\\\",\\\"options\\\":[\\\"A voice assistant speaker\\\",\\\"A wooden chair\\\",\\\"A glass of water\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Can an AI helper recognize your face in a photo?\\\",\\\"options\\\":[\\\"Yes, using a camera and smart vision.\\\",\\\"No, photos are too small.\\\",\\\"Only if you type your name.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What does AI stand for?\\\",\\\"options\\\":[\\\"Artificial Intelligence\\\",\\\"Apple Ice-cream\\\",\\\"Angry Instruments\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"Which of these is a friendly AI helper in our home?\\\",\\\"options\\\":[\\\"A voice assistant speaker\\\",\\\"A wooden chair\\\",\\\"A glass of water\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Can an AI helper recognize your face in a photo?\\\",\\\"options\\\":[\\\"Yes, using a camera and smart vision.\\\",\\\"No, photos are too small.\\\",\\\"Only if you type your name.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"How does a self-driving car know where to stop?\\\",\\\"options\\\":[\\\"Using cameras and smart sensors.\\\",\\\"It guesses randomly.\\\",\\\"By honking the horn.\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.518Z",
-      "updatedAt": "2026-06-24T12:10:22.518Z"
+      "createdAt": "2026-09-13T10:22:18.158Z",
+      "updatedAt": "2026-09-13T10:22:18.158Z"
     },
     {
       "id": 13,
@@ -166,8 +166,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.523Z",
-      "updatedAt": "2026-06-24T12:10:22.523Z"
+      "createdAt": "2026-09-13T10:22:18.162Z",
+      "updatedAt": "2026-09-13T10:22:18.162Z"
     },
     {
       "id": 14,
@@ -179,8 +179,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.523Z",
-      "updatedAt": "2026-06-24T12:10:22.523Z"
+      "createdAt": "2026-09-13T10:22:18.162Z",
+      "updatedAt": "2026-09-13T10:22:18.162Z"
     },
     {
       "id": 15,
@@ -188,12 +188,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"Can AI help us find our favorite cartoons or songs?\\\",\\\"options\\\":[\\\"Yes, it recommends things we might like.\\\",\\\"No, it only plays math games.\\\",\\\"Only on Saturdays.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What does an AI need to learn new things?\\\",\\\"options\\\":[\\\"Lots of examples and data.\\\",\\\"A good night's sleep.\\\",\\\"A sandwich.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"How does a self-driving car know where to stop?\\\",\\\"options\\\":[\\\"Using cameras and smart sensors.\\\",\\\"It guesses randomly.\\\",\\\"By honking the horn.\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What does AI stand for?\\\",\\\"options\\\":[\\\"Artificial Intelligence\\\",\\\"Apple Ice-cream\\\",\\\"Angry Instruments\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What does an AI need to learn new things?\\\",\\\"options\\\":[\\\"Lots of examples and data.\\\",\\\"A good night's sleep.\\\",\\\"A sandwich.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Do robots think exactly like humans?\\\",\\\"options\\\":[\\\"No, they follow instructions and patterns.\\\",\\\"Yes, they have human brains.\\\",\\\"They don't think at all.\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.523Z",
-      "updatedAt": "2026-06-24T12:10:22.523Z"
+      "createdAt": "2026-09-13T10:22:18.162Z",
+      "updatedAt": "2026-09-13T10:22:18.162Z"
     },
     {
       "id": 16,
@@ -205,8 +205,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.528Z",
-      "updatedAt": "2026-06-24T12:10:22.528Z"
+      "createdAt": "2026-09-13T10:22:18.164Z",
+      "updatedAt": "2026-09-13T10:22:18.164Z"
     },
     {
       "id": 17,
@@ -218,8 +218,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.528Z",
-      "updatedAt": "2026-06-24T12:10:22.528Z"
+      "createdAt": "2026-09-13T10:22:18.164Z",
+      "updatedAt": "2026-09-13T10:22:18.164Z"
     },
     {
       "id": 18,
@@ -227,12 +227,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"Does AI feel happy when you do a good job?\\\",\\\"options\\\":[\\\"No, AI is a machine and does not have real feelings.\\\",\\\"Yes, it smiles.\\\",\\\"It gets very excited.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What does AI stand for?\\\",\\\"options\\\":[\\\"Artificial Intelligence\\\",\\\"Apple Ice-cream\\\",\\\"Angry Instruments\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Do robots think exactly like humans?\\\",\\\"options\\\":[\\\"No, they follow instructions and patterns.\\\",\\\"Yes, they have human brains.\\\",\\\"They don't think at all.\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What does AI stand for?\\\",\\\"options\\\":[\\\"Artificial Intelligence\\\",\\\"Apple Ice-cream\\\",\\\"Angry Instruments\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"How does a self-driving car know where to stop?\\\",\\\"options\\\":[\\\"Using cameras and smart sensors.\\\",\\\"It guesses randomly.\\\",\\\"By honking the horn.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What does an AI need to learn new things?\\\",\\\"options\\\":[\\\"Lots of examples and data.\\\",\\\"A good night's sleep.\\\",\\\"A sandwich.\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.528Z",
-      "updatedAt": "2026-06-24T12:10:22.528Z"
+      "createdAt": "2026-09-13T10:22:18.164Z",
+      "updatedAt": "2026-09-13T10:22:18.164Z"
     },
     {
       "id": 19,
@@ -244,8 +244,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.535Z",
-      "updatedAt": "2026-06-24T12:10:22.535Z"
+      "createdAt": "2026-09-13T10:22:18.168Z",
+      "updatedAt": "2026-09-13T10:22:18.168Z"
     },
     {
       "id": 20,
@@ -257,8 +257,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.535Z",
-      "updatedAt": "2026-06-24T12:10:22.535Z"
+      "createdAt": "2026-09-13T10:22:18.168Z",
+      "updatedAt": "2026-09-13T10:22:18.168Z"
     },
     {
       "id": 21,
@@ -266,12 +266,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"Is a robotic puppy alive like a real dog?\\\",\\\"options\\\":[\\\"No, it's a smart toy made of metal and chips.\\\",\\\"Yes, it eats real food.\\\",\\\"Yes, it has a heartbeat.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Can computers learn from patterns and examples?\\\",\\\"options\\\":[\\\"Yes, this is how AI learns!\\\",\\\"No, computers only do math.\\\",\\\"Only if we give them food.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What does an AI need to learn new things?\\\",\\\"options\\\":[\\\"Lots of examples and data.\\\",\\\"A good night's sleep.\\\",\\\"A sandwich.\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"Can an AI helper recognize your face in a photo?\\\",\\\"options\\\":[\\\"Yes, using a camera and smart vision.\\\",\\\"No, photos are too small.\\\",\\\"Only if you type your name.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Can AI help us find our favorite cartoons or songs?\\\",\\\"options\\\":[\\\"Yes, it recommends things we might like.\\\",\\\"No, it only plays math games.\\\",\\\"Only on Saturdays.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What does AI stand for?\\\",\\\"options\\\":[\\\"Artificial Intelligence\\\",\\\"Apple Ice-cream\\\",\\\"Angry Instruments\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.535Z",
-      "updatedAt": "2026-06-24T12:10:22.535Z"
+      "createdAt": "2026-09-13T10:22:18.168Z",
+      "updatedAt": "2026-09-13T10:22:18.168Z"
     },
     {
       "id": 22,
@@ -283,8 +283,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.544Z",
-      "updatedAt": "2026-06-24T12:10:22.544Z"
+      "createdAt": "2026-09-13T10:22:18.171Z",
+      "updatedAt": "2026-09-13T10:22:18.171Z"
     },
     {
       "id": 23,
@@ -296,8 +296,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.544Z",
-      "updatedAt": "2026-06-24T12:10:22.544Z"
+      "createdAt": "2026-09-13T10:22:18.171Z",
+      "updatedAt": "2026-09-13T10:22:18.171Z"
     },
     {
       "id": 24,
@@ -305,12 +305,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"Can an AI helper recognize your face in a photo?\\\",\\\"options\\\":[\\\"Yes, using a camera and smart vision.\\\",\\\"No, photos are too small.\\\",\\\"Only if you type your name.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Can AI help us find our favorite cartoons or songs?\\\",\\\"options\\\":[\\\"Yes, it recommends things we might like.\\\",\\\"No, it only plays math games.\\\",\\\"Only on Saturdays.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Is a robotic puppy alive like a real dog?\\\",\\\"options\\\":[\\\"No, it's a smart toy made of metal and chips.\\\",\\\"Yes, it eats real food.\\\",\\\"Yes, it has a heartbeat.\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What does an AI need to learn new things?\\\",\\\"options\\\":[\\\"Lots of examples and data.\\\",\\\"A good night's sleep.\\\",\\\"A sandwich.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What does AI stand for?\\\",\\\"options\\\":[\\\"Artificial Intelligence\\\",\\\"Apple Ice-cream\\\",\\\"Angry Instruments\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Do robots think exactly like humans?\\\",\\\"options\\\":[\\\"No, they follow instructions and patterns.\\\",\\\"Yes, they have human brains.\\\",\\\"They don't think at all.\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.544Z",
-      "updatedAt": "2026-06-24T12:10:22.544Z"
+      "createdAt": "2026-09-13T10:22:18.171Z",
+      "updatedAt": "2026-09-13T10:22:18.171Z"
     },
     {
       "id": 25,
@@ -322,8 +322,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.549Z",
-      "updatedAt": "2026-06-24T12:10:22.549Z"
+      "createdAt": "2026-09-13T10:22:18.176Z",
+      "updatedAt": "2026-09-13T10:22:18.176Z"
     },
     {
       "id": 26,
@@ -335,8 +335,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.549Z",
-      "updatedAt": "2026-06-24T12:10:22.549Z"
+      "createdAt": "2026-09-13T10:22:18.176Z",
+      "updatedAt": "2026-09-13T10:22:18.176Z"
     },
     {
       "id": 27,
@@ -344,12 +344,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"How does a self-driving car know where to stop?\\\",\\\"options\\\":[\\\"Using cameras and smart sensors.\\\",\\\"It guesses randomly.\\\",\\\"By honking the horn.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Do robots think exactly like humans?\\\",\\\"options\\\":[\\\"No, they follow instructions and patterns.\\\",\\\"Yes, they have human brains.\\\",\\\"They don't think at all.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Can an AI helper recognize your face in a photo?\\\",\\\"options\\\":[\\\"Yes, using a camera and smart vision.\\\",\\\"No, photos are too small.\\\",\\\"Only if you type your name.\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What does AI stand for?\\\",\\\"options\\\":[\\\"Artificial Intelligence\\\",\\\"Apple Ice-cream\\\",\\\"Angry Instruments\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Which of these is a friendly AI helper in our home?\\\",\\\"options\\\":[\\\"A voice assistant speaker\\\",\\\"A wooden chair\\\",\\\"A glass of water\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Does AI feel happy when you do a good job?\\\",\\\"options\\\":[\\\"No, AI is a machine and does not have real feelings.\\\",\\\"Yes, it smiles.\\\",\\\"It gets very excited.\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.549Z",
-      "updatedAt": "2026-06-24T12:10:22.549Z"
+      "createdAt": "2026-09-13T10:22:18.176Z",
+      "updatedAt": "2026-09-13T10:22:18.176Z"
     },
     {
       "id": 28,
@@ -361,8 +361,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.554Z",
-      "updatedAt": "2026-06-24T12:10:22.554Z"
+      "createdAt": "2026-09-13T10:22:18.180Z",
+      "updatedAt": "2026-09-13T10:22:18.180Z"
     },
     {
       "id": 29,
@@ -374,8 +374,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.554Z",
-      "updatedAt": "2026-06-24T12:10:22.554Z"
+      "createdAt": "2026-09-13T10:22:18.180Z",
+      "updatedAt": "2026-09-13T10:22:18.180Z"
     },
     {
       "id": 30,
@@ -383,12 +383,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"Can computers learn from patterns and examples?\\\",\\\"options\\\":[\\\"Yes, this is how AI learns!\\\",\\\"No, computers only do math.\\\",\\\"Only if we give them food.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"How does a self-driving car know where to stop?\\\",\\\"options\\\":[\\\"Using cameras and smart sensors.\\\",\\\"It guesses randomly.\\\",\\\"By honking the horn.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Does AI feel happy when you do a good job?\\\",\\\"options\\\":[\\\"No, AI is a machine and does not have real feelings.\\\",\\\"Yes, it smiles.\\\",\\\"It gets very excited.\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"Which of these is a friendly AI helper in our home?\\\",\\\"options\\\":[\\\"A voice assistant speaker\\\",\\\"A wooden chair\\\",\\\"A glass of water\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"How does a self-driving car know where to stop?\\\",\\\"options\\\":[\\\"Using cameras and smart sensors.\\\",\\\"It guesses randomly.\\\",\\\"By honking the horn.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Can AI help us find our favorite cartoons or songs?\\\",\\\"options\\\":[\\\"Yes, it recommends things we might like.\\\",\\\"No, it only plays math games.\\\",\\\"Only on Saturdays.\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.554Z",
-      "updatedAt": "2026-06-24T12:10:22.554Z"
+      "createdAt": "2026-09-13T10:22:18.180Z",
+      "updatedAt": "2026-09-13T10:22:18.180Z"
     },
     {
       "id": 31,
@@ -400,8 +400,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.560Z",
-      "updatedAt": "2026-06-24T12:10:22.560Z"
+      "createdAt": "2026-09-13T10:22:18.184Z",
+      "updatedAt": "2026-09-13T10:22:18.184Z"
     },
     {
       "id": 32,
@@ -413,8 +413,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.560Z",
-      "updatedAt": "2026-06-24T12:10:22.560Z"
+      "createdAt": "2026-09-13T10:22:18.184Z",
+      "updatedAt": "2026-09-13T10:22:18.184Z"
     },
     {
       "id": 33,
@@ -422,12 +422,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"Can computers learn from patterns and examples?\\\",\\\"options\\\":[\\\"Yes, this is how AI learns!\\\",\\\"No, computers only do math.\\\",\\\"Only if we give them food.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Which of these is a friendly AI helper in our home?\\\",\\\"options\\\":[\\\"A voice assistant speaker\\\",\\\"A wooden chair\\\",\\\"A glass of water\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Do robots think exactly like humans?\\\",\\\"options\\\":[\\\"No, they follow instructions and patterns.\\\",\\\"Yes, they have human brains.\\\",\\\"They don't think at all.\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What does an AI need to learn new things?\\\",\\\"options\\\":[\\\"Lots of examples and data.\\\",\\\"A good night's sleep.\\\",\\\"A sandwich.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What does AI stand for?\\\",\\\"options\\\":[\\\"Artificial Intelligence\\\",\\\"Apple Ice-cream\\\",\\\"Angry Instruments\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Can AI help us find our favorite cartoons or songs?\\\",\\\"options\\\":[\\\"Yes, it recommends things we might like.\\\",\\\"No, it only plays math games.\\\",\\\"Only on Saturdays.\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.560Z",
-      "updatedAt": "2026-06-24T12:10:22.560Z"
+      "createdAt": "2026-09-13T10:22:18.184Z",
+      "updatedAt": "2026-09-13T10:22:18.184Z"
     },
     {
       "id": 34,
@@ -439,8 +439,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.565Z",
-      "updatedAt": "2026-06-24T12:10:22.565Z"
+      "createdAt": "2026-09-13T10:22:18.188Z",
+      "updatedAt": "2026-09-13T10:22:18.188Z"
     },
     {
       "id": 35,
@@ -452,8 +452,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.565Z",
-      "updatedAt": "2026-06-24T12:10:22.565Z"
+      "createdAt": "2026-09-13T10:22:18.188Z",
+      "updatedAt": "2026-09-13T10:22:18.188Z"
     },
     {
       "id": 36,
@@ -461,12 +461,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"Can AI help us find our favorite cartoons or songs?\\\",\\\"options\\\":[\\\"Yes, it recommends things we might like.\\\",\\\"No, it only plays math games.\\\",\\\"Only on Saturdays.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Do robots think exactly like humans?\\\",\\\"options\\\":[\\\"No, they follow instructions and patterns.\\\",\\\"Yes, they have human brains.\\\",\\\"They don't think at all.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Which of these is a friendly AI helper in our home?\\\",\\\"options\\\":[\\\"A voice assistant speaker\\\",\\\"A wooden chair\\\",\\\"A glass of water\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What does an AI need to learn new things?\\\",\\\"options\\\":[\\\"Lots of examples and data.\\\",\\\"A good night's sleep.\\\",\\\"A sandwich.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Can an AI helper recognize your face in a photo?\\\",\\\"options\\\":[\\\"Yes, using a camera and smart vision.\\\",\\\"No, photos are too small.\\\",\\\"Only if you type your name.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Is a robotic puppy alive like a real dog?\\\",\\\"options\\\":[\\\"No, it's a smart toy made of metal and chips.\\\",\\\"Yes, it eats real food.\\\",\\\"Yes, it has a heartbeat.\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.565Z",
-      "updatedAt": "2026-06-24T12:10:22.565Z"
+      "createdAt": "2026-09-13T10:22:18.188Z",
+      "updatedAt": "2026-09-13T10:22:18.188Z"
     },
     {
       "id": 37,
@@ -478,8 +478,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.574Z",
-      "updatedAt": "2026-06-24T12:10:22.574Z"
+      "createdAt": "2026-09-13T10:22:18.192Z",
+      "updatedAt": "2026-09-13T10:22:18.192Z"
     },
     {
       "id": 38,
@@ -491,8 +491,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.574Z",
-      "updatedAt": "2026-06-24T12:10:22.574Z"
+      "createdAt": "2026-09-13T10:22:18.192Z",
+      "updatedAt": "2026-09-13T10:22:18.192Z"
     },
     {
       "id": 39,
@@ -500,12 +500,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is the goal of Prompt Engineering?\\\",\\\"options\\\":[\\\"To design and refine prompts to get the best responses from AI.\\\",\\\"To build a computer motherboard.\\\",\\\"To program a search engine.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is a 'deepfake'?\\\",\\\"options\\\":[\\\"An AI-generated realistic photo, video, or audio that is actually fake.\\\",\\\"A very deep hole in the ground.\\\",\\\"A computer that does not turn on.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is a prompt in AI?\\\",\\\"options\\\":[\\\"A text description or instruction given to an AI model.\\\",\\\"A type of computer mouse.\\\",\\\"A secret programming code.\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"How does a robot sense its surroundings?\\\",\\\"options\\\":[\\\"Using hardware sensors like cameras, lidar, and ultrasonic sensors.\\\",\\\"By reading books.\\\",\\\"It feels emotions.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is 'training data' in machine learning?\\\",\\\"options\\\":[\\\"Examples we give to a computer to help it learn.\\\",\\\"A train engine carrying computers.\\\",\\\"A coding language used by scientists.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is a classifier in machine learning?\\\",\\\"options\\\":[\\\"An AI model that sorts data into different categories.\\\",\\\"A folder for keeping homework.\\\",\\\"A person who cleans the classroom.\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.574Z",
-      "updatedAt": "2026-06-24T12:10:22.574Z"
+      "createdAt": "2026-09-13T10:22:18.192Z",
+      "updatedAt": "2026-09-13T10:22:18.192Z"
     },
     {
       "id": 40,
@@ -517,8 +517,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.587Z",
-      "updatedAt": "2026-06-24T12:10:22.587Z"
+      "createdAt": "2026-09-13T10:22:18.197Z",
+      "updatedAt": "2026-09-13T10:22:18.197Z"
     },
     {
       "id": 41,
@@ -530,8 +530,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.587Z",
-      "updatedAt": "2026-06-24T12:10:22.587Z"
+      "createdAt": "2026-09-13T10:22:18.197Z",
+      "updatedAt": "2026-09-13T10:22:18.197Z"
     },
     {
       "id": 42,
@@ -539,12 +539,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is a prompt in AI?\\\",\\\"options\\\":[\\\"A text description or instruction given to an AI model.\\\",\\\"A type of computer mouse.\\\",\\\"A secret programming code.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"If you train an AI with pictures of only red apples, can it recognize a green apple?\\\",\\\"options\\\":[\\\"Probably not, because its training data was biased to red apples.\\\",\\\"Yes, it knows all apples.\\\",\\\"Only if the green apple is large.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Why should we check AI answers for accuracy?\\\",\\\"options\\\":[\\\"AI can make mistakes or hallucinate incorrect facts.\\\",\\\"AI likes to play jokes.\\\",\\\"AI is always 100% correct.\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is a 'deepfake'?\\\",\\\"options\\\":[\\\"An AI-generated realistic photo, video, or audio that is actually fake.\\\",\\\"A very deep hole in the ground.\\\",\\\"A computer that does not turn on.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is a prompt in AI?\\\",\\\"options\\\":[\\\"A text description or instruction given to an AI model.\\\",\\\"A type of computer mouse.\\\",\\\"A secret programming code.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What does a chatbot use to understand our prompts?\\\",\\\"options\\\":[\\\"Natural Language Processing (NLP)\\\",\\\"A solar calculator chip\\\",\\\"Webcam gesture detection.\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.587Z",
-      "updatedAt": "2026-06-24T12:10:22.587Z"
+      "createdAt": "2026-09-13T10:22:18.197Z",
+      "updatedAt": "2026-09-13T10:22:18.197Z"
     },
     {
       "id": 43,
@@ -556,8 +556,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.596Z",
-      "updatedAt": "2026-06-24T12:10:22.596Z"
+      "createdAt": "2026-09-13T10:22:18.202Z",
+      "updatedAt": "2026-09-13T10:22:18.202Z"
     },
     {
       "id": 44,
@@ -569,8 +569,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.596Z",
-      "updatedAt": "2026-06-24T12:10:22.596Z"
+      "createdAt": "2026-09-13T10:22:18.202Z",
+      "updatedAt": "2026-09-13T10:22:18.202Z"
     },
     {
       "id": 45,
@@ -578,12 +578,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is a major rule of AI Ethics?\\\",\\\"options\\\":[\\\"AI should be fair, safe, and helpful to everyone.\\\",\\\"Robots must always win video games.\\\",\\\"AI should change its own password daily.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is a 'deepfake'?\\\",\\\"options\\\":[\\\"An AI-generated realistic photo, video, or audio that is actually fake.\\\",\\\"A very deep hole in the ground.\\\",\\\"A computer that does not turn on.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is a classifier in machine learning?\\\",\\\"options\\\":[\\\"An AI model that sorts data into different categories.\\\",\\\"A folder for keeping homework.\\\",\\\"A person who cleans the classroom.\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is 'training data' in machine learning?\\\",\\\"options\\\":[\\\"Examples we give to a computer to help it learn.\\\",\\\"A train engine carrying computers.\\\",\\\"A coding language used by scientists.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is a 'deepfake'?\\\",\\\"options\\\":[\\\"An AI-generated realistic photo, video, or audio that is actually fake.\\\",\\\"A very deep hole in the ground.\\\",\\\"A computer that does not turn on.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"If you train an AI with pictures of only red apples, can it recognize a green apple?\\\",\\\"options\\\":[\\\"Probably not, because its training data was biased to red apples.\\\",\\\"Yes, it knows all apples.\\\",\\\"Only if the green apple is large.\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.596Z",
-      "updatedAt": "2026-06-24T12:10:22.596Z"
+      "createdAt": "2026-09-13T10:22:18.202Z",
+      "updatedAt": "2026-09-13T10:22:18.202Z"
     },
     {
       "id": 46,
@@ -595,8 +595,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.605Z",
-      "updatedAt": "2026-06-24T12:10:22.605Z"
+      "createdAt": "2026-09-13T10:22:18.206Z",
+      "updatedAt": "2026-09-13T10:22:18.206Z"
     },
     {
       "id": 47,
@@ -608,8 +608,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.605Z",
-      "updatedAt": "2026-06-24T12:10:22.605Z"
+      "createdAt": "2026-09-13T10:22:18.206Z",
+      "updatedAt": "2026-09-13T10:22:18.206Z"
     },
     {
       "id": 48,
@@ -617,12 +617,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is a prompt in AI?\\\",\\\"options\\\":[\\\"A text description or instruction given to an AI model.\\\",\\\"A type of computer mouse.\\\",\\\"A secret programming code.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is a major rule of AI Ethics?\\\",\\\"options\\\":[\\\"AI should be fair, safe, and helpful to everyone.\\\",\\\"Robots must always win video games.\\\",\\\"AI should change its own password daily.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"How does a robot sense its surroundings?\\\",\\\"options\\\":[\\\"Using hardware sensors like cameras, lidar, and ultrasonic sensors.\\\",\\\"By reading books.\\\",\\\"It feels emotions.\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is the goal of Prompt Engineering?\\\",\\\"options\\\":[\\\"To design and refine prompts to get the best responses from AI.\\\",\\\"To build a computer motherboard.\\\",\\\"To program a search engine.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is a 'deepfake'?\\\",\\\"options\\\":[\\\"An AI-generated realistic photo, video, or audio that is actually fake.\\\",\\\"A very deep hole in the ground.\\\",\\\"A computer that does not turn on.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is 'training data' in machine learning?\\\",\\\"options\\\":[\\\"Examples we give to a computer to help it learn.\\\",\\\"A train engine carrying computers.\\\",\\\"A coding language used by scientists.\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.605Z",
-      "updatedAt": "2026-06-24T12:10:22.605Z"
+      "createdAt": "2026-09-13T10:22:18.206Z",
+      "updatedAt": "2026-09-13T10:22:18.206Z"
     },
     {
       "id": 49,
@@ -634,8 +634,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.614Z",
-      "updatedAt": "2026-06-24T12:10:22.614Z"
+      "createdAt": "2026-09-13T10:22:18.209Z",
+      "updatedAt": "2026-09-13T10:22:18.209Z"
     },
     {
       "id": 50,
@@ -647,8 +647,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.614Z",
-      "updatedAt": "2026-06-24T12:10:22.614Z"
+      "createdAt": "2026-09-13T10:22:18.209Z",
+      "updatedAt": "2026-09-13T10:22:18.209Z"
     },
     {
       "id": 51,
@@ -656,12 +656,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is a 'deepfake'?\\\",\\\"options\\\":[\\\"An AI-generated realistic photo, video, or audio that is actually fake.\\\",\\\"A very deep hole in the ground.\\\",\\\"A computer that does not turn on.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is a classifier in machine learning?\\\",\\\"options\\\":[\\\"An AI model that sorts data into different categories.\\\",\\\"A folder for keeping homework.\\\",\\\"A person who cleans the classroom.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is 'training data' in machine learning?\\\",\\\"options\\\":[\\\"Examples we give to a computer to help it learn.\\\",\\\"A train engine carrying computers.\\\",\\\"A coding language used by scientists.\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What does a chatbot use to understand our prompts?\\\",\\\"options\\\":[\\\"Natural Language Processing (NLP)\\\",\\\"A solar calculator chip\\\",\\\"Webcam gesture detection.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is a major rule of AI Ethics?\\\",\\\"options\\\":[\\\"AI should be fair, safe, and helpful to everyone.\\\",\\\"Robots must always win video games.\\\",\\\"AI should change its own password daily.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is the goal of Prompt Engineering?\\\",\\\"options\\\":[\\\"To design and refine prompts to get the best responses from AI.\\\",\\\"To build a computer motherboard.\\\",\\\"To program a search engine.\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.614Z",
-      "updatedAt": "2026-06-24T12:10:22.614Z"
+      "createdAt": "2026-09-13T10:22:18.209Z",
+      "updatedAt": "2026-09-13T10:22:18.209Z"
     },
     {
       "id": 52,
@@ -673,8 +673,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.622Z",
-      "updatedAt": "2026-06-24T12:10:22.622Z"
+      "createdAt": "2026-09-13T10:22:18.212Z",
+      "updatedAt": "2026-09-13T10:22:18.212Z"
     },
     {
       "id": 53,
@@ -686,8 +686,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.622Z",
-      "updatedAt": "2026-06-24T12:10:22.622Z"
+      "createdAt": "2026-09-13T10:22:18.212Z",
+      "updatedAt": "2026-09-13T10:22:18.212Z"
     },
     {
       "id": 54,
@@ -695,12 +695,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is 'training data' in machine learning?\\\",\\\"options\\\":[\\\"Examples we give to a computer to help it learn.\\\",\\\"A train engine carrying computers.\\\",\\\"A coding language used by scientists.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is a major rule of AI Ethics?\\\",\\\"options\\\":[\\\"AI should be fair, safe, and helpful to everyone.\\\",\\\"Robots must always win video games.\\\",\\\"AI should change its own password daily.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is the goal of Prompt Engineering?\\\",\\\"options\\\":[\\\"To design and refine prompts to get the best responses from AI.\\\",\\\"To build a computer motherboard.\\\",\\\"To program a search engine.\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is a major rule of AI Ethics?\\\",\\\"options\\\":[\\\"AI should be fair, safe, and helpful to everyone.\\\",\\\"Robots must always win video games.\\\",\\\"AI should change its own password daily.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is 'training data' in machine learning?\\\",\\\"options\\\":[\\\"Examples we give to a computer to help it learn.\\\",\\\"A train engine carrying computers.\\\",\\\"A coding language used by scientists.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is a prompt in AI?\\\",\\\"options\\\":[\\\"A text description or instruction given to an AI model.\\\",\\\"A type of computer mouse.\\\",\\\"A secret programming code.\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.622Z",
-      "updatedAt": "2026-06-24T12:10:22.622Z"
+      "createdAt": "2026-09-13T10:22:18.212Z",
+      "updatedAt": "2026-09-13T10:22:18.212Z"
     },
     {
       "id": 55,
@@ -712,8 +712,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.628Z",
-      "updatedAt": "2026-06-24T12:10:22.628Z"
+      "createdAt": "2026-09-13T10:22:18.215Z",
+      "updatedAt": "2026-09-13T10:22:18.215Z"
     },
     {
       "id": 56,
@@ -725,8 +725,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.628Z",
-      "updatedAt": "2026-06-24T12:10:22.628Z"
+      "createdAt": "2026-09-13T10:22:18.215Z",
+      "updatedAt": "2026-09-13T10:22:18.215Z"
     },
     {
       "id": 57,
@@ -734,12 +734,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is a prompt in AI?\\\",\\\"options\\\":[\\\"A text description or instruction given to an AI model.\\\",\\\"A type of computer mouse.\\\",\\\"A secret programming code.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is 'training data' in machine learning?\\\",\\\"options\\\":[\\\"Examples we give to a computer to help it learn.\\\",\\\"A train engine carrying computers.\\\",\\\"A coding language used by scientists.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is the goal of Prompt Engineering?\\\",\\\"options\\\":[\\\"To design and refine prompts to get the best responses from AI.\\\",\\\"To build a computer motherboard.\\\",\\\"To program a search engine.\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is a classifier in machine learning?\\\",\\\"options\\\":[\\\"An AI model that sorts data into different categories.\\\",\\\"A folder for keeping homework.\\\",\\\"A person who cleans the classroom.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is 'training data' in machine learning?\\\",\\\"options\\\":[\\\"Examples we give to a computer to help it learn.\\\",\\\"A train engine carrying computers.\\\",\\\"A coding language used by scientists.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is the goal of Prompt Engineering?\\\",\\\"options\\\":[\\\"To design and refine prompts to get the best responses from AI.\\\",\\\"To build a computer motherboard.\\\",\\\"To program a search engine.\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.628Z",
-      "updatedAt": "2026-06-24T12:10:22.628Z"
+      "createdAt": "2026-09-13T10:22:18.215Z",
+      "updatedAt": "2026-09-13T10:22:18.215Z"
     },
     {
       "id": 58,
@@ -751,8 +751,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.633Z",
-      "updatedAt": "2026-06-24T12:10:22.633Z"
+      "createdAt": "2026-09-13T10:22:18.218Z",
+      "updatedAt": "2026-09-13T10:22:18.218Z"
     },
     {
       "id": 59,
@@ -764,8 +764,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.633Z",
-      "updatedAt": "2026-06-24T12:10:22.633Z"
+      "createdAt": "2026-09-13T10:22:18.218Z",
+      "updatedAt": "2026-09-13T10:22:18.218Z"
     },
     {
       "id": 60,
@@ -773,12 +773,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is a prompt in AI?\\\",\\\"options\\\":[\\\"A text description or instruction given to an AI model.\\\",\\\"A type of computer mouse.\\\",\\\"A secret programming code.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What does a chatbot use to understand our prompts?\\\",\\\"options\\\":[\\\"Natural Language Processing (NLP)\\\",\\\"A solar calculator chip\\\",\\\"Webcam gesture detection.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is a classifier in machine learning?\\\",\\\"options\\\":[\\\"An AI model that sorts data into different categories.\\\",\\\"A folder for keeping homework.\\\",\\\"A person who cleans the classroom.\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"How does a robot sense its surroundings?\\\",\\\"options\\\":[\\\"Using hardware sensors like cameras, lidar, and ultrasonic sensors.\\\",\\\"By reading books.\\\",\\\"It feels emotions.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is a 'deepfake'?\\\",\\\"options\\\":[\\\"An AI-generated realistic photo, video, or audio that is actually fake.\\\",\\\"A very deep hole in the ground.\\\",\\\"A computer that does not turn on.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Why should we check AI answers for accuracy?\\\",\\\"options\\\":[\\\"AI can make mistakes or hallucinate incorrect facts.\\\",\\\"AI likes to play jokes.\\\",\\\"AI is always 100% correct.\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.633Z",
-      "updatedAt": "2026-06-24T12:10:22.633Z"
+      "createdAt": "2026-09-13T10:22:18.218Z",
+      "updatedAt": "2026-09-13T10:22:18.218Z"
     },
     {
       "id": 61,
@@ -790,8 +790,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.640Z",
-      "updatedAt": "2026-06-24T12:10:22.640Z"
+      "createdAt": "2026-09-13T10:22:18.223Z",
+      "updatedAt": "2026-09-13T10:22:18.223Z"
     },
     {
       "id": 62,
@@ -803,8 +803,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.640Z",
-      "updatedAt": "2026-06-24T12:10:22.640Z"
+      "createdAt": "2026-09-13T10:22:18.223Z",
+      "updatedAt": "2026-09-13T10:22:18.223Z"
     },
     {
       "id": 63,
@@ -812,12 +812,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is 'training data' in machine learning?\\\",\\\"options\\\":[\\\"Examples we give to a computer to help it learn.\\\",\\\"A train engine carrying computers.\\\",\\\"A coding language used by scientists.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is a 'deepfake'?\\\",\\\"options\\\":[\\\"An AI-generated realistic photo, video, or audio that is actually fake.\\\",\\\"A very deep hole in the ground.\\\",\\\"A computer that does not turn on.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is a major rule of AI Ethics?\\\",\\\"options\\\":[\\\"AI should be fair, safe, and helpful to everyone.\\\",\\\"Robots must always win video games.\\\",\\\"AI should change its own password daily.\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is 'training data' in machine learning?\\\",\\\"options\\\":[\\\"Examples we give to a computer to help it learn.\\\",\\\"A train engine carrying computers.\\\",\\\"A coding language used by scientists.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is a major rule of AI Ethics?\\\",\\\"options\\\":[\\\"AI should be fair, safe, and helpful to everyone.\\\",\\\"Robots must always win video games.\\\",\\\"AI should change its own password daily.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is the goal of Prompt Engineering?\\\",\\\"options\\\":[\\\"To design and refine prompts to get the best responses from AI.\\\",\\\"To build a computer motherboard.\\\",\\\"To program a search engine.\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.640Z",
-      "updatedAt": "2026-06-24T12:10:22.640Z"
+      "createdAt": "2026-09-13T10:22:18.223Z",
+      "updatedAt": "2026-09-13T10:22:18.223Z"
     },
     {
       "id": 64,
@@ -829,8 +829,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.651Z",
-      "updatedAt": "2026-06-24T12:10:22.651Z"
+      "createdAt": "2026-09-13T10:22:18.228Z",
+      "updatedAt": "2026-09-13T10:22:18.228Z"
     },
     {
       "id": 65,
@@ -842,8 +842,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.651Z",
-      "updatedAt": "2026-06-24T12:10:22.651Z"
+      "createdAt": "2026-09-13T10:22:18.228Z",
+      "updatedAt": "2026-09-13T10:22:18.228Z"
     },
     {
       "id": 66,
@@ -855,8 +855,8 @@
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.651Z",
-      "updatedAt": "2026-06-24T12:10:22.651Z"
+      "createdAt": "2026-09-13T10:22:18.228Z",
+      "updatedAt": "2026-09-13T10:22:18.228Z"
     },
     {
       "id": 67,
@@ -868,8 +868,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.661Z",
-      "updatedAt": "2026-06-24T12:10:22.661Z"
+      "createdAt": "2026-09-13T10:22:18.233Z",
+      "updatedAt": "2026-09-13T10:22:18.233Z"
     },
     {
       "id": 68,
@@ -881,8 +881,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.661Z",
-      "updatedAt": "2026-06-24T12:10:22.661Z"
+      "createdAt": "2026-09-13T10:22:18.233Z",
+      "updatedAt": "2026-09-13T10:22:18.233Z"
     },
     {
       "id": 69,
@@ -894,8 +894,8 @@
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.661Z",
-      "updatedAt": "2026-06-24T12:10:22.661Z"
+      "createdAt": "2026-09-13T10:22:18.233Z",
+      "updatedAt": "2026-09-13T10:22:18.233Z"
     },
     {
       "id": 70,
@@ -907,8 +907,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.668Z",
-      "updatedAt": "2026-06-24T12:10:22.668Z"
+      "createdAt": "2026-09-13T10:22:18.236Z",
+      "updatedAt": "2026-09-13T10:22:18.236Z"
     },
     {
       "id": 71,
@@ -920,8 +920,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.668Z",
-      "updatedAt": "2026-06-24T12:10:22.668Z"
+      "createdAt": "2026-09-13T10:22:18.236Z",
+      "updatedAt": "2026-09-13T10:22:18.236Z"
     },
     {
       "id": 72,
@@ -933,8 +933,8 @@
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.668Z",
-      "updatedAt": "2026-06-24T12:10:22.668Z"
+      "createdAt": "2026-09-13T10:22:18.236Z",
+      "updatedAt": "2026-09-13T10:22:18.236Z"
     },
     {
       "id": 73,
@@ -946,8 +946,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.679Z",
-      "updatedAt": "2026-06-24T12:10:22.679Z"
+      "createdAt": "2026-09-13T10:22:18.240Z",
+      "updatedAt": "2026-09-13T10:22:18.240Z"
     },
     {
       "id": 74,
@@ -959,8 +959,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.679Z",
-      "updatedAt": "2026-06-24T12:10:22.679Z"
+      "createdAt": "2026-09-13T10:22:18.240Z",
+      "updatedAt": "2026-09-13T10:22:18.240Z"
     },
     {
       "id": 75,
@@ -968,12 +968,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is 'overfitting' in machine learning?\\\",\\\"options\\\":[\\\"When a model learns training data too well but fails to generalize to new data.\\\",\\\"When a laptop becomes too hot.\\\",\\\"When the neural network has too many input variables.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Which algorithm is commonly used for unsupervised clustering of data?\\\",\\\"options\\\":[\\\"K-Means Clustering\\\",\\\"Bubble Sort\\\",\\\"Linear Regression\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is the main purpose of a validation dataset?\\\",\\\"options\\\":[\\\"To evaluate model performance during training and tune hyperparameters.\\\",\\\"To store user logins securely.\\\",\\\"To double-check spelling in code comments.\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is 'overfitting' in machine learning?\\\",\\\"options\\\":[\\\"When a model learns training data too well but fails to generalize to new data.\\\",\\\"When a laptop becomes too hot.\\\",\\\"When the neural network has too many input variables.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Which of the following describes 'Supervised Learning'?\\\",\\\"options\\\":[\\\"Training a model on labeled data with known outcomes.\\\",\\\"Training a model without any human supervision.\\\",\\\"Allowing children to code while monitored by teachers.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is Reinforcement Learning?\\\",\\\"options\\\":[\\\"A learning method where an agent learns behavior by receiving rewards and penalties.\\\",\\\"A way to force computers to compile faster.\\\",\\\"Coding with multiple debuggers active.\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.679Z",
-      "updatedAt": "2026-06-24T12:10:22.679Z"
+      "createdAt": "2026-09-13T10:22:18.240Z",
+      "updatedAt": "2026-09-13T10:22:18.240Z"
     },
     {
       "id": 76,
@@ -985,8 +985,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.685Z",
-      "updatedAt": "2026-06-24T12:10:22.685Z"
+      "createdAt": "2026-09-13T10:22:18.243Z",
+      "updatedAt": "2026-09-13T10:22:18.243Z"
     },
     {
       "id": 77,
@@ -998,8 +998,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.685Z",
-      "updatedAt": "2026-06-24T12:10:22.685Z"
+      "createdAt": "2026-09-13T10:22:18.243Z",
+      "updatedAt": "2026-09-13T10:22:18.243Z"
     },
     {
       "id": 78,
@@ -1007,12 +1007,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is the primary role of an activation function in a neural network?\\\",\\\"options\\\":[\\\"To introduce non-linearity into the network output.\\\",\\\"To calculate the average input size.\\\",\\\"To download training data faster.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What does 'NLP' stand for in computer science?\\\",\\\"options\\\":[\\\"Natural Language Processing\\\",\\\"Node Logic Programming\\\",\\\"Network Link Protocol\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is a neuron in an artificial neural network?\\\",\\\"options\\\":[\\\"A mathematical node that processes inputs, applies weights, and produces an output.\\\",\\\"A biological cell inside a computer chip.\\\",\\\"A wire that connects the graphics card.\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is the main purpose of a validation dataset?\\\",\\\"options\\\":[\\\"To evaluate model performance during training and tune hyperparameters.\\\",\\\"To store user logins securely.\\\",\\\"To double-check spelling in code comments.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is a neuron in an artificial neural network?\\\",\\\"options\\\":[\\\"A mathematical node that processes inputs, applies weights, and produces an output.\\\",\\\"A biological cell inside a computer chip.\\\",\\\"A wire that connects the graphics card.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Which algorithm is commonly used for unsupervised clustering of data?\\\",\\\"options\\\":[\\\"K-Means Clustering\\\",\\\"Bubble Sort\\\",\\\"Linear Regression\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.685Z",
-      "updatedAt": "2026-06-24T12:10:22.685Z"
+      "createdAt": "2026-09-13T10:22:18.243Z",
+      "updatedAt": "2026-09-13T10:22:18.243Z"
     },
     {
       "id": 79,
@@ -1024,8 +1024,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.692Z",
-      "updatedAt": "2026-06-24T12:10:22.692Z"
+      "createdAt": "2026-09-13T10:22:18.246Z",
+      "updatedAt": "2026-09-13T10:22:18.246Z"
     },
     {
       "id": 80,
@@ -1037,8 +1037,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.692Z",
-      "updatedAt": "2026-06-24T12:10:22.692Z"
+      "createdAt": "2026-09-13T10:22:18.246Z",
+      "updatedAt": "2026-09-13T10:22:18.246Z"
     },
     {
       "id": 81,
@@ -1050,8 +1050,8 @@
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.692Z",
-      "updatedAt": "2026-06-24T12:10:22.692Z"
+      "createdAt": "2026-09-13T10:22:18.246Z",
+      "updatedAt": "2026-09-13T10:22:18.246Z"
     },
     {
       "id": 82,
@@ -1063,8 +1063,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.698Z",
-      "updatedAt": "2026-06-24T12:10:22.698Z"
+      "createdAt": "2026-09-13T10:22:18.250Z",
+      "updatedAt": "2026-09-13T10:22:18.250Z"
     },
     {
       "id": 83,
@@ -1076,8 +1076,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.698Z",
-      "updatedAt": "2026-06-24T12:10:22.698Z"
+      "createdAt": "2026-09-13T10:22:18.250Z",
+      "updatedAt": "2026-09-13T10:22:18.250Z"
     },
     {
       "id": 84,
@@ -1085,12 +1085,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is the main purpose of a validation dataset?\\\",\\\"options\\\":[\\\"To evaluate model performance during training and tune hyperparameters.\\\",\\\"To store user logins securely.\\\",\\\"To double-check spelling in code comments.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"In Python, which libraries are commonly used for data analysis and machine learning respectively?\\\",\\\"options\\\":[\\\"Pandas and scikit-learn\\\",\\\"HTML and CSS\\\",\\\"Django and Flask\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Which algorithm is commonly used for unsupervised clustering of data?\\\",\\\"options\\\":[\\\"K-Means Clustering\\\",\\\"Bubble Sort\\\",\\\"Linear Regression\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is 'overfitting' in machine learning?\\\",\\\"options\\\":[\\\"When a model learns training data too well but fails to generalize to new data.\\\",\\\"When a laptop becomes too hot.\\\",\\\"When the neural network has too many input variables.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is Reinforcement Learning?\\\",\\\"options\\\":[\\\"A learning method where an agent learns behavior by receiving rewards and penalties.\\\",\\\"A way to force computers to compile faster.\\\",\\\"Coding with multiple debuggers active.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Which of the following describes 'Supervised Learning'?\\\",\\\"options\\\":[\\\"Training a model on labeled data with known outcomes.\\\",\\\"Training a model without any human supervision.\\\",\\\"Allowing children to code while monitored by teachers.\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.698Z",
-      "updatedAt": "2026-06-24T12:10:22.698Z"
+      "createdAt": "2026-09-13T10:22:18.250Z",
+      "updatedAt": "2026-09-13T10:22:18.250Z"
     },
     {
       "id": 85,
@@ -1102,8 +1102,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.707Z",
-      "updatedAt": "2026-06-24T12:10:22.707Z"
+      "createdAt": "2026-09-13T10:22:18.254Z",
+      "updatedAt": "2026-09-13T10:22:18.254Z"
     },
     {
       "id": 86,
@@ -1115,8 +1115,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.707Z",
-      "updatedAt": "2026-06-24T12:10:22.707Z"
+      "createdAt": "2026-09-13T10:22:18.254Z",
+      "updatedAt": "2026-09-13T10:22:18.254Z"
     },
     {
       "id": 87,
@@ -1124,12 +1124,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is a neuron in an artificial neural network?\\\",\\\"options\\\":[\\\"A mathematical node that processes inputs, applies weights, and produces an output.\\\",\\\"A biological cell inside a computer chip.\\\",\\\"A wire that connects the graphics card.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is the main purpose of a validation dataset?\\\",\\\"options\\\":[\\\"To evaluate model performance during training and tune hyperparameters.\\\",\\\"To store user logins securely.\\\",\\\"To double-check spelling in code comments.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is 'overfitting' in machine learning?\\\",\\\"options\\\":[\\\"When a model learns training data too well but fails to generalize to new data.\\\",\\\"When a laptop becomes too hot.\\\",\\\"When the neural network has too many input variables.\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is the primary role of an activation function in a neural network?\\\",\\\"options\\\":[\\\"To introduce non-linearity into the network output.\\\",\\\"To calculate the average input size.\\\",\\\"To download training data faster.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"In Python, which libraries are commonly used for data analysis and machine learning respectively?\\\",\\\"options\\\":[\\\"Pandas and scikit-learn\\\",\\\"HTML and CSS\\\",\\\"Django and Flask\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Which of the following describes 'Supervised Learning'?\\\",\\\"options\\\":[\\\"Training a model on labeled data with known outcomes.\\\",\\\"Training a model without any human supervision.\\\",\\\"Allowing children to code while monitored by teachers.\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.707Z",
-      "updatedAt": "2026-06-24T12:10:22.707Z"
+      "createdAt": "2026-09-13T10:22:18.254Z",
+      "updatedAt": "2026-09-13T10:22:18.254Z"
     },
     {
       "id": 88,
@@ -1141,8 +1141,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.714Z",
-      "updatedAt": "2026-06-24T12:10:22.714Z"
+      "createdAt": "2026-09-13T10:22:18.258Z",
+      "updatedAt": "2026-09-13T10:22:18.258Z"
     },
     {
       "id": 89,
@@ -1154,8 +1154,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.714Z",
-      "updatedAt": "2026-06-24T12:10:22.714Z"
+      "createdAt": "2026-09-13T10:22:18.258Z",
+      "updatedAt": "2026-09-13T10:22:18.258Z"
     },
     {
       "id": 90,
@@ -1163,12 +1163,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"Which algorithm is commonly used for unsupervised clustering of data?\\\",\\\"options\\\":[\\\"K-Means Clustering\\\",\\\"Bubble Sort\\\",\\\"Linear Regression\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is a neuron in an artificial neural network?\\\",\\\"options\\\":[\\\"A mathematical node that processes inputs, applies weights, and produces an output.\\\",\\\"A biological cell inside a computer chip.\\\",\\\"A wire that connects the graphics card.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is the main purpose of a validation dataset?\\\",\\\"options\\\":[\\\"To evaluate model performance during training and tune hyperparameters.\\\",\\\"To store user logins securely.\\\",\\\"To double-check spelling in code comments.\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What does 'NLP' stand for in computer science?\\\",\\\"options\\\":[\\\"Natural Language Processing\\\",\\\"Node Logic Programming\\\",\\\"Network Link Protocol\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is 'overfitting' in machine learning?\\\",\\\"options\\\":[\\\"When a model learns training data too well but fails to generalize to new data.\\\",\\\"When a laptop becomes too hot.\\\",\\\"When the neural network has too many input variables.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is the primary role of an activation function in a neural network?\\\",\\\"options\\\":[\\\"To introduce non-linearity into the network output.\\\",\\\"To calculate the average input size.\\\",\\\"To download training data faster.\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.714Z",
-      "updatedAt": "2026-06-24T12:10:22.714Z"
+      "createdAt": "2026-09-13T10:22:18.258Z",
+      "updatedAt": "2026-09-13T10:22:18.258Z"
     },
     {
       "id": 91,
@@ -1180,8 +1180,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.720Z",
-      "updatedAt": "2026-06-24T12:10:22.720Z"
+      "createdAt": "2026-09-13T10:22:18.261Z",
+      "updatedAt": "2026-09-13T10:22:18.261Z"
     },
     {
       "id": 92,
@@ -1193,8 +1193,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.720Z",
-      "updatedAt": "2026-06-24T12:10:22.720Z"
+      "createdAt": "2026-09-13T10:22:18.261Z",
+      "updatedAt": "2026-09-13T10:22:18.261Z"
     },
     {
       "id": 93,
@@ -1202,12 +1202,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is a neuron in an artificial neural network?\\\",\\\"options\\\":[\\\"A mathematical node that processes inputs, applies weights, and produces an output.\\\",\\\"A biological cell inside a computer chip.\\\",\\\"A wire that connects the graphics card.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is Reinforcement Learning?\\\",\\\"options\\\":[\\\"A learning method where an agent learns behavior by receiving rewards and penalties.\\\",\\\"A way to force computers to compile faster.\\\",\\\"Coding with multiple debuggers active.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"In Python, which libraries are commonly used for data analysis and machine learning respectively?\\\",\\\"options\\\":[\\\"Pandas and scikit-learn\\\",\\\"HTML and CSS\\\",\\\"Django and Flask\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is the primary role of an activation function in a neural network?\\\",\\\"options\\\":[\\\"To introduce non-linearity into the network output.\\\",\\\"To calculate the average input size.\\\",\\\"To download training data faster.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is the main purpose of a validation dataset?\\\",\\\"options\\\":[\\\"To evaluate model performance during training and tune hyperparameters.\\\",\\\"To store user logins securely.\\\",\\\"To double-check spelling in code comments.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"In Python, which libraries are commonly used for data analysis and machine learning respectively?\\\",\\\"options\\\":[\\\"Pandas and scikit-learn\\\",\\\"HTML and CSS\\\",\\\"Django and Flask\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.720Z",
-      "updatedAt": "2026-06-24T12:10:22.720Z"
+      "createdAt": "2026-09-13T10:22:18.261Z",
+      "updatedAt": "2026-09-13T10:22:18.261Z"
     },
     {
       "id": 94,
@@ -1219,8 +1219,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.727Z",
-      "updatedAt": "2026-06-24T12:10:22.727Z"
+      "createdAt": "2026-09-13T10:22:18.264Z",
+      "updatedAt": "2026-09-13T10:22:18.264Z"
     },
     {
       "id": 95,
@@ -1232,8 +1232,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.727Z",
-      "updatedAt": "2026-06-24T12:10:22.727Z"
+      "createdAt": "2026-09-13T10:22:18.264Z",
+      "updatedAt": "2026-09-13T10:22:18.264Z"
     },
     {
       "id": 96,
@@ -1241,12 +1241,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"In Python, which libraries are commonly used for data analysis and machine learning respectively?\\\",\\\"options\\\":[\\\"Pandas and scikit-learn\\\",\\\"HTML and CSS\\\",\\\"Django and Flask\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is 'overfitting' in machine learning?\\\",\\\"options\\\":[\\\"When a model learns training data too well but fails to generalize to new data.\\\",\\\"When a laptop becomes too hot.\\\",\\\"When the neural network has too many input variables.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is the main purpose of a validation dataset?\\\",\\\"options\\\":[\\\"To evaluate model performance during training and tune hyperparameters.\\\",\\\"To store user logins securely.\\\",\\\"To double-check spelling in code comments.\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is the main purpose of a validation dataset?\\\",\\\"options\\\":[\\\"To evaluate model performance during training and tune hyperparameters.\\\",\\\"To store user logins securely.\\\",\\\"To double-check spelling in code comments.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"In Python, which libraries are commonly used for data analysis and machine learning respectively?\\\",\\\"options\\\":[\\\"Pandas and scikit-learn\\\",\\\"HTML and CSS\\\",\\\"Django and Flask\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Which algorithm is commonly used for unsupervised clustering of data?\\\",\\\"options\\\":[\\\"K-Means Clustering\\\",\\\"Bubble Sort\\\",\\\"Linear Regression\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.727Z",
-      "updatedAt": "2026-06-24T12:10:22.727Z"
+      "createdAt": "2026-09-13T10:22:18.264Z",
+      "updatedAt": "2026-09-13T10:22:18.264Z"
     },
     {
       "id": 97,
@@ -1258,8 +1258,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.739Z",
-      "updatedAt": "2026-06-24T12:10:22.739Z"
+      "createdAt": "2026-09-13T10:22:18.269Z",
+      "updatedAt": "2026-09-13T10:22:18.269Z"
     },
     {
       "id": 98,
@@ -1271,8 +1271,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.739Z",
-      "updatedAt": "2026-06-24T12:10:22.739Z"
+      "createdAt": "2026-09-13T10:22:18.269Z",
+      "updatedAt": "2026-09-13T10:22:18.269Z"
     },
     {
       "id": 99,
@@ -1280,12 +1280,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is 'overfitting' in machine learning?\\\",\\\"options\\\":[\\\"When a model learns training data too well but fails to generalize to new data.\\\",\\\"When a laptop becomes too hot.\\\",\\\"When the neural network has too many input variables.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Which of the following describes 'Supervised Learning'?\\\",\\\"options\\\":[\\\"Training a model on labeled data with known outcomes.\\\",\\\"Training a model without any human supervision.\\\",\\\"Allowing children to code while monitored by teachers.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is Reinforcement Learning?\\\",\\\"options\\\":[\\\"A learning method where an agent learns behavior by receiving rewards and penalties.\\\",\\\"A way to force computers to compile faster.\\\",\\\"Coding with multiple debuggers active.\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"In Python, which libraries are commonly used for data analysis and machine learning respectively?\\\",\\\"options\\\":[\\\"Pandas and scikit-learn\\\",\\\"HTML and CSS\\\",\\\"Django and Flask\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is algorithmic bias in machine learning?\\\",\\\"options\\\":[\\\"When a model produces systematically prejudiced results due to biased training data.\\\",\\\"When the compiler skips lines of code.\\\",\\\"When the database order is reversed.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is the primary role of an activation function in a neural network?\\\",\\\"options\\\":[\\\"To introduce non-linearity into the network output.\\\",\\\"To calculate the average input size.\\\",\\\"To download training data faster.\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.739Z",
-      "updatedAt": "2026-06-24T12:10:22.739Z"
+      "createdAt": "2026-09-13T10:22:18.269Z",
+      "updatedAt": "2026-09-13T10:22:18.269Z"
     },
     {
       "id": 100,
@@ -1297,8 +1297,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.751Z",
-      "updatedAt": "2026-06-24T12:10:22.751Z"
+      "createdAt": "2026-09-13T10:22:18.272Z",
+      "updatedAt": "2026-09-13T10:22:18.272Z"
     },
     {
       "id": 101,
@@ -1310,8 +1310,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.751Z",
-      "updatedAt": "2026-06-24T12:10:22.751Z"
+      "createdAt": "2026-09-13T10:22:18.272Z",
+      "updatedAt": "2026-09-13T10:22:18.272Z"
     },
     {
       "id": 102,
@@ -1319,12 +1319,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is algorithmic bias in machine learning?\\\",\\\"options\\\":[\\\"When a model produces systematically prejudiced results due to biased training data.\\\",\\\"When the compiler skips lines of code.\\\",\\\"When the database order is reversed.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is the primary role of an activation function in a neural network?\\\",\\\"options\\\":[\\\"To introduce non-linearity into the network output.\\\",\\\"To calculate the average input size.\\\",\\\"To download training data faster.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is a neuron in an artificial neural network?\\\",\\\"options\\\":[\\\"A mathematical node that processes inputs, applies weights, and produces an output.\\\",\\\"A biological cell inside a computer chip.\\\",\\\"A wire that connects the graphics card.\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is 'overfitting' in machine learning?\\\",\\\"options\\\":[\\\"When a model learns training data too well but fails to generalize to new data.\\\",\\\"When a laptop becomes too hot.\\\",\\\"When the neural network has too many input variables.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is a neuron in an artificial neural network?\\\",\\\"options\\\":[\\\"A mathematical node that processes inputs, applies weights, and produces an output.\\\",\\\"A biological cell inside a computer chip.\\\",\\\"A wire that connects the graphics card.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is Reinforcement Learning?\\\",\\\"options\\\":[\\\"A learning method where an agent learns behavior by receiving rewards and penalties.\\\",\\\"A way to force computers to compile faster.\\\",\\\"Coding with multiple debuggers active.\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.751Z",
-      "updatedAt": "2026-06-24T12:10:22.751Z"
+      "createdAt": "2026-09-13T10:22:18.272Z",
+      "updatedAt": "2026-09-13T10:22:18.272Z"
     },
     {
       "id": 103,
@@ -1336,8 +1336,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.762Z",
-      "updatedAt": "2026-06-24T12:10:22.762Z"
+      "createdAt": "2026-09-13T10:22:18.276Z",
+      "updatedAt": "2026-09-13T10:22:18.276Z"
     },
     {
       "id": 104,
@@ -1349,8 +1349,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.762Z",
-      "updatedAt": "2026-06-24T12:10:22.762Z"
+      "createdAt": "2026-09-13T10:22:18.276Z",
+      "updatedAt": "2026-09-13T10:22:18.276Z"
     },
     {
       "id": 105,
@@ -1358,12 +1358,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is Reinforcement Learning?\\\",\\\"options\\\":[\\\"A learning method where an agent learns behavior by receiving rewards and penalties.\\\",\\\"A way to force computers to compile faster.\\\",\\\"Coding with multiple debuggers active.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Which of the following describes 'Supervised Learning'?\\\",\\\"options\\\":[\\\"Training a model on labeled data with known outcomes.\\\",\\\"Training a model without any human supervision.\\\",\\\"Allowing children to code while monitored by teachers.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is the main purpose of a validation dataset?\\\",\\\"options\\\":[\\\"To evaluate model performance during training and tune hyperparameters.\\\",\\\"To store user logins securely.\\\",\\\"To double-check spelling in code comments.\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"Which algorithm is commonly used for unsupervised clustering of data?\\\",\\\"options\\\":[\\\"K-Means Clustering\\\",\\\"Bubble Sort\\\",\\\"Linear Regression\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is the primary role of an activation function in a neural network?\\\",\\\"options\\\":[\\\"To introduce non-linearity into the network output.\\\",\\\"To calculate the average input size.\\\",\\\"To download training data faster.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"In Python, which libraries are commonly used for data analysis and machine learning respectively?\\\",\\\"options\\\":[\\\"Pandas and scikit-learn\\\",\\\"HTML and CSS\\\",\\\"Django and Flask\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.762Z",
-      "updatedAt": "2026-06-24T12:10:22.762Z"
+      "createdAt": "2026-09-13T10:22:18.276Z",
+      "updatedAt": "2026-09-13T10:22:18.276Z"
     },
     {
       "id": 106,
@@ -1375,8 +1375,8 @@
       "duration": 15,
       "order": 1,
       "xpReward": 40,
-      "createdAt": "2026-06-24T12:10:22.768Z",
-      "updatedAt": "2026-06-24T12:10:22.768Z"
+      "createdAt": "2026-09-13T10:22:18.279Z",
+      "updatedAt": "2026-09-13T10:22:18.279Z"
     },
     {
       "id": 107,
@@ -1388,8 +1388,8 @@
       "duration": 20,
       "order": 2,
       "xpReward": 50,
-      "createdAt": "2026-06-24T12:10:22.768Z",
-      "updatedAt": "2026-06-24T12:10:22.768Z"
+      "createdAt": "2026-09-13T10:22:18.279Z",
+      "updatedAt": "2026-09-13T10:22:18.279Z"
     },
     {
       "id": 108,
@@ -1397,12 +1397,12 @@
       "title": "Final Knowledge Quiz",
       "description": "Answer these questions to demonstrate your mastery and complete this section!",
       "type": "quiz",
-      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is the main purpose of a validation dataset?\\\",\\\"options\\\":[\\\"To evaluate model performance during training and tune hyperparameters.\\\",\\\"To store user logins securely.\\\",\\\"To double-check spelling in code comments.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What is the primary role of an activation function in a neural network?\\\",\\\"options\\\":[\\\"To introduce non-linearity into the network output.\\\",\\\"To calculate the average input size.\\\",\\\"To download training data faster.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What does 'NLP' stand for in computer science?\\\",\\\"options\\\":[\\\"Natural Language Processing\\\",\\\"Node Logic Programming\\\",\\\"Network Link Protocol\\\"],\\\"correct\\\":0}]}\"",
+      "content": "\"{\\\"quizQuestions\\\":[{\\\"question\\\":\\\"What is the main purpose of a validation dataset?\\\",\\\"options\\\":[\\\"To evaluate model performance during training and tune hyperparameters.\\\",\\\"To store user logins securely.\\\",\\\"To double-check spelling in code comments.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"Which of the following describes 'Supervised Learning'?\\\",\\\"options\\\":[\\\"Training a model on labeled data with known outcomes.\\\",\\\"Training a model without any human supervision.\\\",\\\"Allowing children to code while monitored by teachers.\\\"],\\\"correct\\\":0},{\\\"question\\\":\\\"What does 'NLP' stand for in computer science?\\\",\\\"options\\\":[\\\"Natural Language Processing\\\",\\\"Node Logic Programming\\\",\\\"Network Link Protocol\\\"],\\\"correct\\\":0}]}\"",
       "duration": 15,
       "order": 3,
       "xpReward": 60,
-      "createdAt": "2026-06-24T12:10:22.768Z",
-      "updatedAt": "2026-06-24T12:10:22.768Z"
+      "createdAt": "2026-09-13T10:22:18.279Z",
+      "updatedAt": "2026-09-13T10:22:18.279Z"
     }
   ],
   "courses": [
@@ -1416,8 +1416,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?q=80&w=400",
       "duration": 60,
       "xpReward": 150,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 2,
@@ -1429,8 +1429,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=400",
       "duration": 45,
       "xpReward": 100,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 3,
@@ -1442,8 +1442,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1563206767-5b18f218e8de?q=80&w=400",
       "duration": 90,
       "xpReward": 200,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 4,
@@ -1455,8 +1455,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=400",
       "duration": 60,
       "xpReward": 120,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 5,
@@ -1468,8 +1468,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?q=80&w=400",
       "duration": 50,
       "xpReward": 110,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 6,
@@ -1481,8 +1481,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1509228468518-180dd4864904?q=80&w=400",
       "duration": 60,
       "xpReward": 130,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 7,
@@ -1494,8 +1494,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1518156677180-95a2893f3e9f?q=80&w=400",
       "duration": 75,
       "xpReward": 160,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 8,
@@ -1507,8 +1507,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1543466835-00a7907e9de1?q=80&w=400",
       "duration": 80,
       "xpReward": 180,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 9,
@@ -1520,8 +1520,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=400",
       "duration": 50,
       "xpReward": 110,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 10,
@@ -1533,8 +1533,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?q=80&w=400",
       "duration": 55,
       "xpReward": 125,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 11,
@@ -1546,8 +1546,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=400",
       "duration": 40,
       "xpReward": 95,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 12,
@@ -1559,8 +1559,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=400",
       "duration": 45,
       "xpReward": 100,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 13,
@@ -1572,8 +1572,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?q=80&w=400",
       "duration": 120,
       "xpReward": 250,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 14,
@@ -1585,8 +1585,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1531747118685-ca8fa6e08806?q=80&w=400",
       "duration": 150,
       "xpReward": 300,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 15,
@@ -1598,8 +1598,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=400",
       "duration": 90,
       "xpReward": 200,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 16,
@@ -1611,8 +1611,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=400",
       "duration": 130,
       "xpReward": 260,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 17,
@@ -1624,8 +1624,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1547891654-e66ed7edd96c?q=80&w=400",
       "duration": 100,
       "xpReward": 220,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 18,
@@ -1637,8 +1637,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1534361960057-19889db9621e?q=80&w=400",
       "duration": 110,
       "xpReward": 240,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 19,
@@ -1650,8 +1650,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=400",
       "duration": 140,
       "xpReward": 280,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 20,
@@ -1663,8 +1663,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?q=80&w=400",
       "duration": 95,
       "xpReward": 210,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 21,
@@ -1676,8 +1676,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1504270997636-07ddfbd48945?q=80&w=400",
       "duration": 100,
       "xpReward": 230,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 22,
@@ -1689,8 +1689,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1557200134-90327ee9fafa?q=80&w=400",
       "duration": 105,
       "xpReward": 225,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 23,
@@ -1702,8 +1702,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1455390582262-044cdead277a?q=80&w=400",
       "duration": 160,
       "xpReward": 320,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 24,
@@ -1715,8 +1715,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=400",
       "duration": 115,
       "xpReward": 235,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 25,
@@ -1728,8 +1728,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=400",
       "duration": 180,
       "xpReward": 400,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 26,
@@ -1741,8 +1741,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=400",
       "duration": 240,
       "xpReward": 500,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 27,
@@ -1754,8 +1754,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?q=80&w=400",
       "duration": 120,
       "xpReward": 350,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 28,
@@ -1767,8 +1767,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=400",
       "duration": 200,
       "xpReward": 420,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 29,
@@ -1780,8 +1780,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?q=80&w=400",
       "duration": 190,
       "xpReward": 390,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 30,
@@ -1793,8 +1793,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1527689368864-3a821dbccc34?q=80&w=400",
       "duration": 210,
       "xpReward": 450,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 31,
@@ -1806,8 +1806,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1535378917042?q=80&w=400",
       "duration": 220,
       "xpReward": 460,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 32,
@@ -1819,8 +1819,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1639762681485?q=80&w=400",
       "duration": 160,
       "xpReward": 380,
-      "createdAt": "2026-06-24T12:10:22.490Z",
-      "updatedAt": "2026-06-24T12:10:22.490Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 33,
@@ -1832,8 +1832,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1573164713988-8665fc963095?q=80&w=400",
       "duration": 130,
       "xpReward": 330,
-      "createdAt": "2026-06-24T12:10:22.491Z",
-      "updatedAt": "2026-06-24T12:10:22.491Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 34,
@@ -1845,8 +1845,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1538481199705?q=80&w=400",
       "duration": 250,
       "xpReward": 520,
-      "createdAt": "2026-06-24T12:10:22.491Z",
-      "updatedAt": "2026-06-24T12:10:22.491Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 35,
@@ -1858,8 +1858,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1547658719-da2b51169166?q=80&w=400",
       "duration": 230,
       "xpReward": 480,
-      "createdAt": "2026-06-24T12:10:22.491Z",
-      "updatedAt": "2026-06-24T12:10:22.491Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     },
     {
       "id": 36,
@@ -1871,8 +1871,8 @@
       "thumbnail": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=400",
       "duration": 175,
       "xpReward": 370,
-      "createdAt": "2026-06-24T12:10:22.491Z",
-      "updatedAt": "2026-06-24T12:10:22.491Z"
+      "createdAt": "2026-09-13T10:22:18.141Z",
+      "updatedAt": "2026-09-13T10:22:18.141Z"
     }
   ],
   "badges": [
@@ -1884,8 +1884,8 @@
       "icon": "BookOpen",
       "color": "#3B82F6",
       "xpThreshold": 50,
-      "createdAt": "2026-06-24T12:10:22.342Z",
-      "updatedAt": "2026-06-24T12:10:22.343Z"
+      "createdAt": "2026-09-13T10:22:18.031Z",
+      "updatedAt": "2026-09-13T10:22:18.032Z"
     },
     {
       "id": 2,
@@ -1895,8 +1895,8 @@
       "icon": "Trophy",
       "color": "#8B5CF6",
       "xpThreshold": 500,
-      "createdAt": "2026-06-24T12:10:22.343Z",
-      "updatedAt": "2026-06-24T12:10:22.343Z"
+      "createdAt": "2026-09-13T10:22:18.032Z",
+      "updatedAt": "2026-09-13T10:22:18.032Z"
     },
     {
       "id": 3,
@@ -1905,8 +1905,8 @@
       "category": "learning",
       "icon": "Zap",
       "color": "#3B82F6",
-      "createdAt": "2026-06-24T12:10:22.343Z",
-      "updatedAt": "2026-06-24T12:10:22.343Z"
+      "createdAt": "2026-09-13T10:22:18.032Z",
+      "updatedAt": "2026-09-13T10:22:18.032Z"
     },
     {
       "id": 4,
@@ -1916,8 +1916,8 @@
       "icon": "Flame",
       "color": "#F59E0B",
       "xpThreshold": 140,
-      "createdAt": "2026-06-24T12:10:22.343Z",
-      "updatedAt": "2026-06-24T12:10:22.343Z"
+      "createdAt": "2026-09-13T10:22:18.032Z",
+      "updatedAt": "2026-09-13T10:22:18.032Z"
     },
     {
       "id": 5,
@@ -1927,8 +1927,8 @@
       "icon": "Flame",
       "color": "#F43F5E",
       "xpThreshold": 600,
-      "createdAt": "2026-06-24T12:10:22.343Z",
-      "updatedAt": "2026-06-24T12:10:22.343Z"
+      "createdAt": "2026-09-13T10:22:18.032Z",
+      "updatedAt": "2026-09-13T10:22:18.032Z"
     },
     {
       "id": 6,
@@ -1938,8 +1938,8 @@
       "icon": "Target",
       "color": "#10B981",
       "xpThreshold": 500,
-      "createdAt": "2026-06-24T12:10:22.343Z",
-      "updatedAt": "2026-06-24T12:10:22.343Z"
+      "createdAt": "2026-09-13T10:22:18.032Z",
+      "updatedAt": "2026-09-13T10:22:18.032Z"
     },
     {
       "id": 7,
@@ -1948,8 +1948,8 @@
       "category": "achievement",
       "icon": "Compass",
       "color": "#8B5CF6",
-      "createdAt": "2026-06-24T12:10:22.343Z",
-      "updatedAt": "2026-06-24T12:10:22.343Z"
+      "createdAt": "2026-09-13T10:22:18.032Z",
+      "updatedAt": "2026-09-13T10:22:18.032Z"
     },
     {
       "id": 8,
@@ -1959,8 +1959,8 @@
       "icon": "Bot",
       "color": "#3B82F6",
       "xpThreshold": 100,
-      "createdAt": "2026-06-24T12:10:22.343Z",
-      "updatedAt": "2026-06-24T12:10:22.343Z"
+      "createdAt": "2026-09-13T10:22:18.032Z",
+      "updatedAt": "2026-09-13T10:22:18.032Z"
     },
     {
       "id": 9,
@@ -1970,8 +1970,8 @@
       "icon": "Code",
       "color": "#10B981",
       "xpThreshold": 100,
-      "createdAt": "2026-06-24T12:10:22.343Z",
-      "updatedAt": "2026-06-24T12:10:22.343Z"
+      "createdAt": "2026-09-13T10:22:18.032Z",
+      "updatedAt": "2026-09-13T10:22:18.032Z"
     },
     {
       "id": 10,
@@ -1981,8 +1981,8 @@
       "icon": "Sparkles",
       "color": "#8B5CF6",
       "xpThreshold": 1000,
-      "createdAt": "2026-06-24T12:10:22.343Z",
-      "updatedAt": "2026-06-24T12:10:22.343Z"
+      "createdAt": "2026-09-13T10:22:18.032Z",
+      "updatedAt": "2026-09-13T10:22:18.032Z"
     },
     {
       "id": 11,
@@ -1991,8 +1991,8 @@
       "category": "challenge",
       "icon": "Moon",
       "color": "#64748B",
-      "createdAt": "2026-06-24T12:10:22.343Z",
-      "updatedAt": "2026-06-24T12:10:22.343Z"
+      "createdAt": "2026-09-13T10:22:18.032Z",
+      "updatedAt": "2026-09-13T10:22:18.032Z"
     },
     {
       "id": 12,
@@ -2001,21 +2001,43 @@
       "category": "challenge",
       "icon": "Sun",
       "color": "#F59E0B",
-      "createdAt": "2026-06-24T12:10:22.343Z",
-      "updatedAt": "2026-06-24T12:10:22.343Z"
+      "createdAt": "2026-09-13T10:22:18.032Z",
+      "updatedAt": "2026-09-13T10:22:18.032Z"
     }
   ],
   "users": [
     {
       "id": 1,
-      "username": "ashish",
-      "passwordHash": "$2b$10$gfynllE07F6hPDhlhB.aMeIPVRCJJl7gadgQ4uMHNZT3Hud6mdJJS",
-      "email": null,
-      "fullName": "Ashish",
-      "avatar": null,
+      "username": "alex_explorer",
+      "passwordHash": "$2b$10$f4j2wJzGlT412XfFxYnhUux95jl04Wm9PswrLP7ZMreKxQ27lvoP6",
+      "email": "alex@example.com",
+      "fullName": "Alex Explorer",
+      "avatar": "/child-avatar-1.png",
       "role": "child",
-      "createdAt": "2026-06-24T23:36:29.650Z",
-      "updatedAt": "2026-06-24T23:36:29.658Z"
+      "createdAt": "2026-09-13T10:22:18.355Z",
+      "updatedAt": "2026-09-13T10:22:18.355Z"
+    },
+    {
+      "id": 2,
+      "username": "sarah_parent",
+      "passwordHash": "$2b$10$f4j2wJzGlT412XfFxYnhUux95jl04Wm9PswrLP7ZMreKxQ27lvoP6",
+      "email": "sarah@example.com",
+      "fullName": "Sarah Jenkins",
+      "avatar": "/parent-avatar.png",
+      "role": "parent",
+      "createdAt": "2026-09-13T10:22:18.355Z",
+      "updatedAt": "2026-09-13T10:22:18.355Z"
+    },
+    {
+      "id": 3,
+      "username": "mr_davis",
+      "passwordHash": "$2b$10$f4j2wJzGlT412XfFxYnhUux95jl04Wm9PswrLP7ZMreKxQ27lvoP6",
+      "email": "davis@school.edu",
+      "fullName": "Marcus Davis",
+      "avatar": "/teacher-avatar.png",
+      "role": "teacher",
+      "createdAt": "2026-09-13T10:22:18.355Z",
+      "updatedAt": "2026-09-13T10:22:18.355Z"
     }
   ],
   "children_profiles": [
@@ -2023,77 +2045,129 @@
       "id": 1,
       "userId": 1,
       "ageGroup": "8-12",
-      "selectedAvatar": "/child-avatar-1.png",
-      "createdAt": "2026-06-24T23:36:29.726Z",
-      "updatedAt": "2026-06-24T23:36:54.358Z",
-      "totalXp": 80,
+      "totalXp": 420,
+      "currentStreak": 5,
+      "longestStreak": 7,
       "level": 1,
-      "currentStreak": 1,
-      "longestStreak": 1
+      "selectedAvatar": "/child-avatar-1.png",
+      "createdAt": "2026-09-13T10:22:18.357Z",
+      "updatedAt": "2026-09-13T10:22:18.357Z"
     }
   ],
   "course_progress": [
     {
       "id": 1,
       "childId": 1,
-      "courseId": 17,
+      "courseId": 13,
+      "completedLessons": 2,
+      "totalLessons": 3,
+      "status": "in_progress",
+      "createdAt": "2026-09-13T10:22:18.367Z",
+      "updatedAt": "2026-09-13T10:22:18.367Z"
+    },
+    {
+      "id": 2,
+      "childId": 1,
+      "courseId": 14,
       "completedLessons": 1,
       "totalLessons": 3,
       "status": "in_progress",
-      "startedAt": "2026-06-24 23:36:52.224",
-      "createdAt": "2026-06-24T23:36:52.228Z",
-      "updatedAt": "2026-06-24T23:36:54.215Z"
+      "createdAt": "2026-09-13T10:22:18.367Z",
+      "updatedAt": "2026-09-13T10:22:18.367Z"
     }
   ],
   "lesson_progress": [
     {
       "id": 1,
       "childId": 1,
-      "lessonId": 49,
+      "lessonId": 37,
       "status": "completed",
-      "completedAt": "2026-06-24 23:36:54.168",
-      "score": null,
-      "createdAt": "2026-06-24T23:36:48.434Z",
-      "updatedAt": "2026-06-24T23:36:48.434Z"
+      "createdAt": "2026-09-13T10:22:18.369Z",
+      "updatedAt": "2026-09-13T10:22:18.369Z"
     },
     {
       "id": 2,
       "childId": 1,
-      "lessonId": 50,
+      "lessonId": 38,
+      "status": "completed",
+      "createdAt": "2026-09-13T10:22:18.369Z",
+      "updatedAt": "2026-09-13T10:22:18.369Z"
+    },
+    {
+      "id": 3,
+      "childId": 1,
+      "lessonId": 39,
       "status": "unlocked",
-      "createdAt": "2026-06-24T23:36:48.551Z",
-      "updatedAt": "2026-06-24T23:36:48.551Z"
+      "createdAt": "2026-09-13T10:22:18.369Z",
+      "updatedAt": "2026-09-13T10:22:18.369Z"
+    },
+    {
+      "id": 4,
+      "childId": 1,
+      "lessonId": 40,
+      "status": "completed",
+      "createdAt": "2026-09-13T10:22:18.369Z",
+      "updatedAt": "2026-09-13T10:22:18.369Z"
+    },
+    {
+      "id": 5,
+      "childId": 1,
+      "lessonId": 41,
+      "status": "unlocked",
+      "createdAt": "2026-09-13T10:22:18.369Z",
+      "updatedAt": "2026-09-13T10:22:18.369Z"
     }
   ],
-  "streak_logs": [
+  "streak_logs": [],
+  "parent_profiles": [
     {
       "id": 1,
-      "childId": 1,
-      "date": "2026-06-25 05:06:48",
-      "activityType": "lesson_complete",
-      "xpEarned": 40,
-      "createdAt": "2026-06-24T23:36:48.609Z",
-      "updatedAt": "2026-06-24T23:36:48.609Z"
-    },
-    {
-      "id": 2,
-      "childId": 1,
-      "date": "2026-06-25 05:06:54",
-      "activityType": "lesson_complete",
-      "xpEarned": 40,
-      "createdAt": "2026-06-24T23:36:54.328Z",
-      "updatedAt": "2026-06-24T23:36:54.328Z"
+      "userId": 2,
+      "createdAt": "2026-09-13T10:22:18.361Z",
+      "updatedAt": "2026-09-13T10:22:18.361Z"
     }
   ],
-  "parent_profiles": [],
-  "parent_child_links": [],
+  "parent_child_links": [
+    {
+      "id": 1,
+      "parentId": 2,
+      "childId": 1,
+      "status": "accepted",
+      "createdAt": "2026-09-13T10:22:18.365Z",
+      "updatedAt": "2026-09-13T10:22:18.365Z"
+    }
+  ],
   "notifications": [],
   "ai_tutor_conversations": [],
   "homework_submissions": [],
   "homework": [],
   "tasks": [],
-  "child_badges": [],
+  "child_badges": [
+    {
+      "id": 1,
+      "childId": 1,
+      "badgeId": 1,
+      "createdAt": "2026-09-13T10:22:18.370Z",
+      "updatedAt": "2026-09-13T10:22:18.370Z"
+    },
+    {
+      "id": 2,
+      "childId": 1,
+      "badgeId": 4,
+      "createdAt": "2026-09-13T10:22:18.370Z",
+      "updatedAt": "2026-09-13T10:22:18.370Z"
+    }
+  ],
   "classroom_students": [],
   "classrooms": [],
-  "teacher_profiles": []
+  "teacher_profiles": [
+    {
+      "id": 1,
+      "userId": 3,
+      "subject": "Computer Science & AI",
+      "grade": "Grade 4-8",
+      "createdAt": "2026-09-13T10:22:18.362Z",
+      "updatedAt": "2026-09-13T10:22:18.362Z"
+    }
+  ]
 }
